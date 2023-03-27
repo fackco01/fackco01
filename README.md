@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me:
+- 🔭 I’m currently a software engineering student at FPT University
+- 🌱 I’m currently learning Web Development
+- 📫 Contact with me: duanhotrng@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,spring,html,css,visualstudio,vscode,postgres,postman,stackoverflow,discord&theme=light)](https://skillicons.dev)
