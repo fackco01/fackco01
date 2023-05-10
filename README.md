@@ -20,4 +20,4 @@ About me:
 - 🌱 I’m currently learning Web Development
 - 📫 Contact with me: duanhotrng@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,spring,html,css,visualstudio,vscode,postgres,postman,stackoverflow,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,cs,net,spring,html,css,visualstudio,vscode,postgres,postman,stackoverflow,discord&theme=dark)](https://skillicons.dev)
