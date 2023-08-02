@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 About me:
 - 🔭 I’m currently a software engineering student at FPT University
 - 🌱 I’m currently learning Web Development
-- 📫 Contact with me: duanhotrng@gmail.com
+- 📫 Contact with me: duanhotrong@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,cs,net,spring,html,css,visualstudio,vscode,postgres,postman,stackoverflow,discord&theme=dark)](https://skillicons.dev)
