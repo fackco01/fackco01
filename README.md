@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 About me:
-- 🔭 I’m currently a software engineering student at FPT University
+- 🔭 I’m graduated a software engineering student at FPT University
 - 🌱 I’m currently learning Web Development
 - 📫 Contact with me: duanhotrong@gmail.com
 
